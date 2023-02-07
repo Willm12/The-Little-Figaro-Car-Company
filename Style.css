@@ -1,0 +1,15 @@
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-height: 100%;
+    background: rgb(255,255,255);
+    background-image: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(182,170,112,1) 10%);
+}
+
+html{
+    height: 100%;
+}
+
+#aboutus{
+    flex: auto;
+}
